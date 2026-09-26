@@ -1,0 +1,168 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.medicineproject"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->INJECTED
+8        android:minSdkVersion="24"
+8-->INJECTED
+9        android:targetSdkVersion="37" />
+9-->INJECTED
+10
+11    <permission
+11-->[androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:22:5-24:47
+12        android:name="com.example.medicineproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.example.medicineproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->/Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:4:5-20:19
+18        android:allowBackup="true"
+18-->/Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:5:13-39
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:28:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+21-->INJECTED
+22        android:icon="@mipmap/ic_launcher"
+22-->/Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:6:13-47
+23        android:label="@string/app_name"
+23-->/Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:7:13-45
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:8:13-58
+25        android:supportsRtl="true"
+25-->/Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:9:13-39
+26        android:testOnly="true"
+27        android:theme="@android:style/Theme.Material.Light.NoActionBar" >
+27-->/Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:10:13-76
+28        <activity
+28-->/Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:11:9-19:20
+29            android:name="com.example.medicineproject.MainActivity"
+29-->/Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:13:17-45
+30            android:exported="true" >
+30-->/Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:12:17-40
+31            <intent-filter>
+31-->/Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:14:13-18:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->/Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:15:17-68
+32-->/Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:15:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->/Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:17:17-76
+34-->/Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:17:27-74
+35            </intent-filter>
+36        </activity>
+37
+38        <provider
+38-->[org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0adb4309e631e7dc198e98ed6c385410/transformed/library-release/AndroidManifest.xml:8:9-13:20
+39            android:name="org.jetbrains.compose.resources.AndroidContextProvider"
+39-->[org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0adb4309e631e7dc198e98ed6c385410/transformed/library-release/AndroidManifest.xml:9:13-82
+40            android:authorities="com.example.medicineproject.resources.AndroidContextProvider"
+40-->[org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0adb4309e631e7dc198e98ed6c385410/transformed/library-release/AndroidManifest.xml:10:13-84
+41            android:enabled="true"
+41-->[org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0adb4309e631e7dc198e98ed6c385410/transformed/library-release/AndroidManifest.xml:11:13-35
+42            android:exported="false" >
+42-->[org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0adb4309e631e7dc198e98ed6c385410/transformed/library-release/AndroidManifest.xml:12:13-37
+43        </provider>
+44
+45        <activity
+45-->[org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a6ca2ee1ab36127cbfd3ca567321bba7/transformed/ui-tooling/AndroidManifest.xml:23:9-25:39
+46            android:name="org.jetbrains.androidx.compose.ui.tooling.PreviewActivity"
+46-->[org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a6ca2ee1ab36127cbfd3ca567321bba7/transformed/ui-tooling/AndroidManifest.xml:24:13-85
+47            android:exported="true" />
+47-->[org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a6ca2ee1ab36127cbfd3ca567321bba7/transformed/ui-tooling/AndroidManifest.xml:25:13-36
+48        <activity
+48-->[androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ada2b88990bfd01ae200a57605b5ce39/transformed/ui-tooling/AndroidManifest.xml:23:9-25:39
+49            android:name="androidx.compose.ui.tooling.PreviewActivity"
+49-->[androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ada2b88990bfd01ae200a57605b5ce39/transformed/ui-tooling/AndroidManifest.xml:24:13-71
+50            android:exported="true" />
+50-->[androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ada2b88990bfd01ae200a57605b5ce39/transformed/ui-tooling/AndroidManifest.xml:25:13-36
+51
+52        <provider
+52-->[androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+53            android:name="androidx.startup.InitializationProvider"
+53-->[androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+54            android:authorities="com.example.medicineproject.androidx-startup"
+54-->[androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+55            android:exported="false" >
+55-->[androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+56            <meta-data
+56-->[androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+57                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+57-->[androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+58                android:value="androidx.startup" />
+58-->[androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+59            <meta-data
+59-->[androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/be09e897166dd959b0d198846b65b374/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:29:13-31:52
+60                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+60-->[androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/be09e897166dd959b0d198846b65b374/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:30:17-78
+61                android:value="androidx.startup" />
+61-->[androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/be09e897166dd959b0d198846b65b374/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:31:17-49
+62            <meta-data
+62-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+63                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+63-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+64                android:value="androidx.startup" />
+64-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+65        </provider>
+66
+67        <uses-library
+67-->[androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:23:9-25:40
+68            android:name="androidx.window.extensions"
+68-->[androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:24:13-54
+69            android:required="false" />
+69-->[androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:25:13-37
+70        <uses-library
+70-->[androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:26:9-28:40
+71            android:name="androidx.window.sidecar"
+71-->[androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:27:13-51
+72            android:required="false" />
+72-->[androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:28:13-37
+73
+74        <receiver
+74-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+75            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+75-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+76            android:directBootAware="false"
+76-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+77            android:enabled="true"
+77-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+78            android:exported="true"
+78-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+79            android:permission="android.permission.DUMP" >
+79-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+80            <intent-filter>
+80-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+81                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+81-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+81-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+82            </intent-filter>
+83            <intent-filter>
+83-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+84                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+84-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+84-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+85            </intent-filter>
+86            <intent-filter>
+86-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+87                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+87-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+87-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+88            </intent-filter>
+89            <intent-filter>
+89-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+90                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+90-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+90-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+91            </intent-filter>
+92        </receiver>
+93    </application>
+94
+95</manifest>

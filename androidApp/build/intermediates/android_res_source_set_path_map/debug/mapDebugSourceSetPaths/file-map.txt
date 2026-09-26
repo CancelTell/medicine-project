@@ -1,0 +1,7 @@
+com.example.medicineproject.androidApp-pngs-0 /Users/canceltell/MedicineProject/androidApp/build/generated/res/pngs/debug
+com.example.medicineproject.androidApp-updated_navigation_xml-1 /Users/canceltell/MedicineProject/androidApp/build/generated/updated_navigation_xml/debug
+com.example.medicineproject.androidApp-packageDebugResources-2 /Users/canceltell/MedicineProject/androidApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.medicineproject.androidApp-packageDebugResources-3 /Users/canceltell/MedicineProject/androidApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.medicineproject.androidApp-debug-4 /Users/canceltell/MedicineProject/androidApp/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.medicineproject.androidApp-debug-5 /Users/canceltell/MedicineProject/androidApp/src/debug/res
+com.example.medicineproject.androidApp-main-6 /Users/canceltell/MedicineProject/androidApp/src/main/res
