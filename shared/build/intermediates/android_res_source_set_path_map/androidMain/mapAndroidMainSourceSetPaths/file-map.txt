@@ -1,0 +1,4 @@
+com.example.medicineproject.shared-androidMain-0 /Users/canceltell/MedicineProject/shared/build/generated/updated_navigation_xml/androidMain/res
+com.example.medicineproject.shared-packageAndroidMainResources-1 /Users/canceltell/MedicineProject/shared/build/intermediates/incremental/androidMain/packageAndroidMainResources/merged.dir
+com.example.medicineproject.shared-packageAndroidMainResources-2 /Users/canceltell/MedicineProject/shared/build/intermediates/incremental/androidMain/packageAndroidMainResources/stripped.dir
+com.example.medicineproject.shared-packageAndroidMainResources-3 /Users/canceltell/MedicineProject/shared/build/intermediates/packaged_res/androidMain/packageAndroidMainResources/res

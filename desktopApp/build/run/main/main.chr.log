@@ -1,0 +1,10 @@
+ | 20:47:29.680 | DevTools | Info  | RecompilerKt | Recompiler | Running 'Gradle'...
+ | 20:47:30.510 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | Calculating task graph as no cached configuration is available for tasks: :desktopApp:hotReloadMain
+ | 20:47:31.826 | App      | Info  | ResolveDirtyKt | Compose Runtime Analyzer
+    | Resolved 'dirty' @Composable scopes within 336.417us
+    |   ~ No @Composable is dirty
+    | 
+ | 20:47:31.912 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | 
+ | 20:47:31.913 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | BUILD SUCCESSFUL in 2s
+ | 20:47:31.913 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | 17 actionable tasks: 3 executed, 14 up-to-date
+ | 20:47:31.913 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | Configuration cache entry stored.
