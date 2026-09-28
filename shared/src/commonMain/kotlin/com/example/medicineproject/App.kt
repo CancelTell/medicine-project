@@ -8,13 +8,14 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.example.medicineproject.navigation.AppNavDisplay
-import com.example.medicineproject.navigation.AppNavDisplay
+import com.example.medicineproject.navigation.Navigator
+import com.example.medicineproject.ui.theme.MedicineAppTheme
 
 @Composable
 fun App() {
     MedicineAppTheme {
         val navigator = remember { Navigator() }
-        val backStack by navigator.navStack.collectAsStateWithLifecycle()
+        val backStack by navigator.backStack.collectAsStateWithLifecycle()
 
         Box(modifier = Modifier.fillMaxSize()) {
             AppNavDisplay(
