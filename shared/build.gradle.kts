@@ -80,3 +80,7 @@ kotlin {
 dependencies {
     androidRuntimeClasspath(libs.compose.uiTooling)
 }
+
+compose.resources {
+    packageOfResClass = "com.example.medicineproject.resources"
+}

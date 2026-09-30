@@ -5,22 +5,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e89d40c4-367a-4180-bd7e-ad0f4e53bd8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/shared/src/commonMain/kotlin/com/example/medicineproject/ui/components/AppScaffold.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/src/commonMain/kotlin/com/example/medicineproject/ui/components/ArticleCard.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/src/commonMain/kotlin/com/example/medicineproject/ui/components/ArticleSearchBar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/src/commonMain/kotlin/com/example/medicineproject/ui/model/ArticleUI.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/src/commonMain/composeResources/values-ru/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/src/commonMain/composeResources/values/strings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.5.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.5.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/0eb8383a-dc52-4244-a935-7453b7d30a53/.globals.work.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/0eb8383a-dc52-4244-a935-7453b7d30a53/.strings.work.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/0eb8383a-dc52-4244-a935-7453b7d30a53/_androidApp.work.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/0eb8383a-dc52-4244-a935-7453b7d30a53/_shared.work.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/0eb8383a-dc52-4244-a935-7453b7d30a53/buildfingerprint.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/0eb8383a-dc52-4244-a935-7453b7d30a53/classloaderscopes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/0eb8383a-dc52-4244-a935-7453b7d30a53/entry.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/0eb8383a-dc52-4244-a935-7453b7d30a53/projectfingerprint.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/0eb8383a-dc52-4244-a935-7453b7d30a53/work.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/7snyns982e1s7wtd42gf9eq6s/candidates.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/configuration-cache/7snyns982e1s7wtd42gf9eq6s/candidates.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/1/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/1/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/11/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/11/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidApp/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidApp/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/androidApp/build/kotlin/compileDebugKotlin/cacheable/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/androidApp/build/kotlin/compileDebugKotlin/cacheable/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/.transforms/2ee0f8a98bacf8906749bd00e21e82a5/transformed/bundleLibRuntimeToDirAndroidMain/medicineproject/shared/generated/resources/ActualResourceCollectorsKt.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/.transforms/2ee0f8a98bacf8906749bd00e21e82a5/transformed/bundleLibRuntimeToDirAndroidMain/medicineproject/shared/generated/resources/Drawable0_commonMainKt.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/.transforms/2ee0f8a98bacf8906749bd00e21e82a5/transformed/bundleLibRuntimeToDirAndroidMain/medicineproject/shared/generated/resources/Res$array.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/.transforms/2ee0f8a98bacf8906749bd00e21e82a5/transformed/bundleLibRuntimeToDirAndroidMain/medicineproject/shared/generated/resources/Res$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/.transforms/2ee0f8a98bacf8906749bd00e21e82a5/transformed/bundleLibRuntimeToDirAndroidMain/medicineproject/shared/generated/resources/Res$font.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/.transforms/2ee0f8a98bacf8906749bd00e21e82a5/transformed/bundleLibRuntimeToDirAndroidMain/medicineproject/shared/generated/resources/Res$plurals.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/.transforms/2ee0f8a98bacf8906749bd00e21e82a5/transformed/bundleLibRuntimeToDirAndroidMain/medicineproject/shared/generated/resources/Res$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/.transforms/2ee0f8a98bacf8906749bd00e21e82a5/transformed/bundleLibRuntimeToDirAndroidMain/medicineproject/shared/generated/resources/Res.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/classes/kotlin/android/main/META-INF/MedicineProject_shared.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/classes/kotlin/android/main/META-INF/MedicineProject_shared.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/classes/kotlin/android/main/medicineproject/shared/generated/resources/ActualResourceCollectorsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/classes/kotlin/android/main/medicineproject/shared/generated/resources/Drawable0_commonMainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/classes/kotlin/android/main/medicineproject/shared/generated/resources/Res$array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/classes/kotlin/android/main/medicineproject/shared/generated/resources/Res$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/classes/kotlin/android/main/medicineproject/shared/generated/resources/Res$font.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/classes/kotlin/android/main/medicineproject/shared/generated/resources/Res$plurals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/classes/kotlin/android/main/medicineproject/shared/generated/resources/Res$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/classes/kotlin/android/main/medicineproject/shared/generated/resources/Res.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/generated/compose/resourceGenerator/kotlin/androidMainResourceCollectors/medicineproject/shared/generated/resources/ActualResourceCollectors.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/generated/compose/resourceGenerator/kotlin/commonMainResourceAccessors/medicineproject/shared/generated/resources/Drawable0.commonMain.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/generated/compose/resourceGenerator/kotlin/commonMainResourceCollectors/medicineproject/shared/generated/resources/ExpectResourceCollectors.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/generated/compose/resourceGenerator/kotlin/commonResClass/medicineproject/shared/generated/resources/Res.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/generated/compose/resourceGenerator/kotlin/iosArm64MainResourceCollectors/medicineproject/shared/generated/resources/ActualResourceCollectors.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/generated/compose/resourceGenerator/kotlin/iosSimulatorArm64MainResourceCollectors/medicineproject/shared/generated/resources/ActualResourceCollectors.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/generated/compose/resourceGenerator/kotlin/jsMainResourceCollectors/medicineproject/shared/generated/resources/ActualResourceCollectors.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/generated/compose/resourceGenerator/kotlin/jvmMainResourceCollectors/medicineproject/shared/generated/resources/ActualResourceCollectors.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/generated/compose/resourceGenerator/kotlin/wasmJsMainResourceCollectors/medicineproject/shared/generated/resources/ActualResourceCollectors.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/intermediates/compile_library_classes_jar/androidMain/bundleAndroidMainClassesToCompileJar/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/intermediates/compile_library_classes_jar/androidMain/bundleAndroidMainClassesToCompileJar/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/intermediates/incremental/mergeAndroidMainAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/intermediates/incremental/mergeAndroidMainAssets/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/intermediates/java_res/androidMain/processAndroidMainJavaRes/out/META-INF/MedicineProject_shared.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/intermediates/java_res/androidMain/processAndroidMainJavaRes/out/META-INF/MedicineProject_shared.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/intermediates/runtime_library_classes_dir/androidMain/bundleLibRuntimeToDirAndroidMain/META-INF/MedicineProject_shared.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/intermediates/runtime_library_classes_dir/androidMain/bundleLibRuntimeToDirAndroidMain/META-INF/MedicineProject_shared.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/intermediates/runtime_library_classes_dir/androidMain/bundleLibRuntimeToDirAndroidMain/medicineproject/shared/generated/resources/ActualResourceCollectorsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/intermediates/runtime_library_classes_dir/androidMain/bundleLibRuntimeToDirAndroidMain/medicineproject/shared/generated/resources/Drawable0_commonMainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/intermediates/runtime_library_classes_dir/androidMain/bundleLibRuntimeToDirAndroidMain/medicineproject/shared/generated/resources/Res$array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/intermediates/runtime_library_classes_dir/androidMain/bundleLibRuntimeToDirAndroidMain/medicineproject/shared/generated/resources/Res$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/intermediates/runtime_library_classes_dir/androidMain/bundleLibRuntimeToDirAndroidMain/medicineproject/shared/generated/resources/Res$font.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/intermediates/runtime_library_classes_dir/androidMain/bundleLibRuntimeToDirAndroidMain/medicineproject/shared/generated/resources/Res$plurals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/intermediates/runtime_library_classes_dir/androidMain/bundleLibRuntimeToDirAndroidMain/medicineproject/shared/generated/resources/Res$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/intermediates/runtime_library_classes_dir/androidMain/bundleLibRuntimeToDirAndroidMain/medicineproject/shared/generated/resources/Res.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
@@ -30,15 +77,17 @@
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
@@ -84,6 +133,7 @@
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/cacheable/last-build.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/classpath-snapshot/shrunk-classpath-snapshot.bin" beforeDir="false" afterPath="$PROJECT_DIR$/shared/build/kotlin/compileAndroidMain/classpath-snapshot/shrunk-classpath-snapshot.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/src/commonMain/kotlin/com/example/medicineproject/ui/components/ArticleSearchBar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/shared/src/commonMain/kotlin/com/example/medicineproject/ui/components/ArticleSearchBar.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,12 +160,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="MedicineProject" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
