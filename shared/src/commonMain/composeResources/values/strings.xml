@@ -1,0 +1,7 @@
+<resources>
+    <string name = "search_placeholder">Search</string>
+    <string name = "nothing_found">Nothing found</string>
+    <string name = "article_not_found">Article not found</string>
+    <string name = "article_author">By %1$s</string>
+    <string name = "back">Back </string>
+</resources>

@@ -1,63 +1,33 @@
 package com.example.medicineproject
 
-import androidx.compose.foundation.layout.Box
-import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.padding
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
-import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.example.medicineproject.navigation.AppNavDisplay
-import com.example.medicineproject.navigation.Navigator
+import com.example.medicineproject.data.ArticleRepositoryImpl
+import com.example.medicineproject.detail.ArticleDetailViewModelFactory
+import com.example.medicineproject.domain.ArticleRepository
+import com.example.medicineproject.list.ArticleListViewModelFactory
+import com.example.medicineproject.ui.components.AppScaffold
+import com.example.medicineproject.ui.navigation.AppNavDisplay
+import com.example.medicineproject.ui.navigation.Navigator
 import com.example.medicineproject.ui.theme.MedicineAppTheme
 
 @Composable
 fun App() {
     MedicineAppTheme {
+        val repository: ArticleRepository = remember { ArticleRepositoryImpl() }
         val navigator = remember { Navigator() }
-        val backStack by navigator.backStack.collectAsStateWithLifecycle()
+        val listViewModelFactory = remember { ArticleListViewModelFactory(navigator, repository) }
+        val detailViewModelFactory = remember { ArticleDetailViewModelFactory(navigator, repository) }
 
-        Box(modifier = Modifier.fillMaxSize()) {
+        AppScaffold { innerPadding ->
             AppNavDisplay(
+                modifier = Modifier.padding(innerPadding),
                 navigator = navigator,
-                backStack = backStack
+                listViewModelFactory = listViewModelFactory,
+                detailViewModelFactory = detailViewModelFactory,
             )
         }
     }
 }
-//    Box(
-//        modifier = Modifier.fillMaxSize(),
-//        contentAlignment = Alignment.Center
-//    ) {
-//        if (selectedArticle.value == null) {
-//            ArticleListScreen(
-//                articles = mockArticles,
-//                onArticleClick = { article ->
-//                    selectedArticle.value = article }
-//            )
-//        } else {
-//            ArticleDetailScreen(
-//                article = selectedArticle.value!!,
-//                onBackClick = {
-//                    selectedArticle.value = null
-//                }
-//            )
-//        }
-
-//val currentScreen = remember { mutableStateOf<Screen>(Screen.ArticleList) }
-//
-//when (currentScreen.value) {
-//    is Screen.ArticleList -> {
-//        ArticleListScreen(
-//            articles = mockArticles,
-//        ) { article -> currentScreen.value = Screen.ArticleDetail(article) }
-//    }
-//
-//    is Screen.ArticleDetail -> {
-//        val article = (currentScreen.value as Screen.ArticleDetail).article
-//        ArticleDetailScreen(
-//            article = article,
-//            onBackClick = { currentScreen.value = Screen.ArticleList }
-//        )
-//    }
-
