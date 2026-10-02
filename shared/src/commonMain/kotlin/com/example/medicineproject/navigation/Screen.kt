@@ -1,6 +1,6 @@
-package com.example.medicineproject.navigation
+package com.example.medicineproject
 
-sealed class Screen {
-    data object ArticleList : Screen()
-    data class ArticleDetail(val articleId: String) : Screen()
+sealed interface Screen {
+    data object ArticleList : Screen
+    data class ArticleDetail(val id: String) : Screen
 }

@@ -88,7 +88,9 @@
           "org.jetbrains.compose.components:components-resources",
           "org.jetbrains.compose.ui:ui-tooling-preview",
           "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
-          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose"
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "androidx.navigation3:navigation3-runtime",
+          "org.jetbrains.androidx.navigation3:navigation3-ui"
         ],
         "sourceSetCInteropMetadataDirectory": "appleMain-cinterop",
         "binaryLayout": "klib",
@@ -106,7 +108,9 @@
           "org.jetbrains.compose.components:components-resources",
           "org.jetbrains.compose.ui:ui-tooling-preview",
           "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
-          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose"
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "androidx.navigation3:navigation3-runtime",
+          "org.jetbrains.androidx.navigation3:navigation3-ui"
         ],
         "binaryLayout": "klib"
       },
@@ -123,7 +127,9 @@
           "org.jetbrains.compose.components:components-resources",
           "org.jetbrains.compose.ui:ui-tooling-preview",
           "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
-          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose"
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "androidx.navigation3:navigation3-runtime",
+          "org.jetbrains.androidx.navigation3:navigation3-ui"
         ],
         "sourceSetCInteropMetadataDirectory": "iosMain-cinterop",
         "binaryLayout": "klib",
@@ -142,7 +148,9 @@
           "org.jetbrains.compose.components:components-resources",
           "org.jetbrains.compose.ui:ui-tooling-preview",
           "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
-          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose"
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "androidx.navigation3:navigation3-runtime",
+          "org.jetbrains.androidx.navigation3:navigation3-ui"
         ],
         "sourceSetCInteropMetadataDirectory": "nativeMain-cinterop",
         "binaryLayout": "klib",
@@ -162,7 +170,9 @@
           "org.jetbrains.compose.components:components-resources",
           "org.jetbrains.compose.ui:ui-tooling-preview",
           "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
-          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose"
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "androidx.navigation3:navigation3-runtime",
+          "org.jetbrains.androidx.navigation3:navigation3-ui"
         ],
         "binaryLayout": "klib"
       }

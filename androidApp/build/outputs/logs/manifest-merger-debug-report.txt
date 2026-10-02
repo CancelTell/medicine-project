@@ -5,82 +5,84 @@ INJECTED from /Users/canceltell/MedicineProject/androidApp/src/main/AndroidManif
 INJECTED from /Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:2:1-22:12
 INJECTED from /Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:2:1-22:12
 MERGED from [:shared] /Users/canceltell/MedicineProject/shared/build/intermediates/merged_manifest/androidMain/processAndroidMainManifest/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.material3:material3-android:1.12.0-alpha03] /Users/canceltell/.gradle/caches/9.5.1/transforms/3261c5da7b403869a381ce1cfec0ac3c/transformed/material3/AndroidManifest.xml:17:1-22:12
-MERGED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0adb4309e631e7dc198e98ed6c385410/transformed/library-release/AndroidManifest.xml:2:1-16:12
-MERGED from [org.jetbrains.compose.material:material-ripple-android:1.12.0-beta01] /Users/canceltell/.gradle/caches/9.5.1/transforms/8d3e92877e05ce920cfa946e8a70dded/transformed/material-ripple/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.animation:animation-core-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0e76ab67a890d31d7b455f73557f68f4/transformed/animation-core/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.animation:animation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/753e47aebad6a93bcc03ec00521b0426/transformed/animation/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.foundation:foundation-layout-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/3940b6f2ac34f85eb5cd0c3b1b1e9537/transformed/foundation-layout/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.foundation:foundation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d3cb548fdb10d89fe8153836cd580724/transformed/foundation/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.ui:ui-unit-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/77bf66d735216464a3f14fa27b59ca79/transformed/ui-unit/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.ui:ui-graphics-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/988d1c5b0c6a99e28f00d5f5ad0e70a2/transformed/ui-graphics/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.ui:ui-geometry-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/41ef4ad4e9a8adbc5433732e65e7554b/transformed/ui-geometry/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.ui:ui-util-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/6365a9f9f981ad4c5f699014db36f400/transformed/ui-util/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.ui:ui-text-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2fa8f06c2a0e4bb6d7f3d51e865e4116/transformed/ui-text/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.ui:ui-tooling-data-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/15a72dffdd68ab617d9f857acd3a5ef9/transformed/ui-tooling-data/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.ui:ui-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/3dc653fc4eac6fb5308eee166d27ef17/transformed/ui/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.ui:ui-tooling-preview-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/bebc0a06cc89da1ba08a85b1144e3bf6/transformed/ui-tooling-preview/AndroidManifest.xml:17:1-22:12
-MERGED from [org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a6ca2ee1ab36127cbfd3ca567321bba7/transformed/ui-tooling/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/b7426486165d104a56e896521ca442c1/transformed/navigationevent/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/7e07798ab87db381ad55c24b1d1854da/transformed/navigationevent-compose/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material3:material3-android:1.5.0-alpha22] /Users/canceltell/.gradle/caches/9.5.1/transforms/471e3220a3f3a097558d816219851d1c/transformed/material3/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.material:material-ripple-android:1.12.0-beta01] /Users/canceltell/.gradle/caches/9.5.1/transforms/3efbaf8d8d2d003d8ef014101933f70e/transformed/material-ripple/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-core-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/eaa498e03601eb234f208ba84e160779/transformed/animation-core/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/bcbf4d6a7691a1ec7bd26996d84a49cd/transformed/animation/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/74b26d3506154521a0322fab6f114eb5/transformed/foundation-layout/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/af1e3bf3989e9bfc9d578469a67bccf8/transformed/foundation/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-unit-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1e87092513c330f6d3faea1cfb15f67e/transformed/ui-unit/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-graphics-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5da266bae6183b033eae34a2cd2d16c7/transformed/ui-graphics/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-geometry-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/05d1b56f66e519d663c79bfeb9b3f775/transformed/ui-geometry/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-util-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/6c7e09f1f8a0e81bbf4c921e6d5a52e2/transformed/ui-util/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-text-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1c0608b96e2d9247d1d52ea86ce1d865/transformed/ui-text/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/745cfc2b2f0c83a4f0d05e6b23ca48f3/transformed/ui-tooling-data/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/977bd2941fe4b8e3b5cffee2dbb60ad6/transformed/ui-tooling-preview/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ada2b88990bfd01ae200a57605b5ce39/transformed/ui-tooling/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/3f960e4379082ae51a4e8202efe2990d/transformed/runtime-saveable/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.runtime:runtime-annotation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/663ddcd64cde911388150249e3693b47/transformed/runtime-annotation/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.runtime:runtime-retain-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/c3a22d45fc0886ab10925b40df4897ae/transformed/runtime-retain/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ac736cdf960f9c9d99702c18520b6e62/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.graphics:graphics-shapes-android:1.1.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2fd57436a8a411f2bad43d18368c6607/transformed/graphics-shapes/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/348f218d3ea91d36cae7a251b6d38246/transformed/lifecycle-livedata-core-2.11.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/90be19f26aa53f9f87844e3387d1b5e5/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/283c6fb0f0da4de23690c9bcaee953ec/transformed/lifecycle-viewmodel/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/84f2bc12d8fb6c8c4ebc9296a5a4beec/transformed/lifecycle-viewmodel-ktx-2.11.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/be09e897166dd959b0d198846b65b374/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2c9f377253ecf355a6814718679b7b91/transformed/lifecycle-runtime-compose/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/499e2c21c6daf5c155d30d34ce842907/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/20f9467fab26cfea879ff7c19a3ad4b2/transformed/core-ktx-1.18.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1bb2c84b32e8e0b651d561840f8b39cd/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.window:window-core-android:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/81e7deface5178536cca115b95a025e1/transformed/window-core/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:17:1-31:12
-MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/81da763019a2c6467ff0c4d7346e3687/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5f9802ccac6a35d433f80b857278a197/transformed/lifecycle-runtime/AndroidManifest.xml:17:1-22:12
-MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-runtime-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a4a4a7fcc2ce81ffa770b7a9770dd575/transformed/lifecycle-runtime/AndroidManifest.xml:17:1-22:12
-MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/845cf059d104da165965f8210f1534ad/transformed/lifecycle-viewmodel/AndroidManifest.xml:17:1-22:12
-MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2dd2f456cad9cea758b1fd9e79e5af56/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate-android:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f8dd7c1e4d12cd5bc61c9b231435916b/transformed/savedstate/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/b955f73093251eb33307f3638da8e97b/transformed/savedstate-ktx-1.4.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/930e30bda1fa7df9c3075adb477b1e97/transformed/savedstate-compose/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.runtime:runtime-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/4f525e75f742ca6bba69a37bfe4c4208/transformed/runtime/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.runtime:runtime-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/377f4e05fe321b7ee896eeca9721f03b/transformed/runtime/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.compose.runtime:runtime-saveable-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9fea570193c082b1dbc2dd3f0e7892f6/transformed/runtime-saveable/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/70a106499d172335ef65d3db5bc90892/transformed/lifecycle-runtime-compose/AndroidManifest.xml:2:1-7:12
-MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e29b3991ff5422afb3ac9968d8a72a39/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f542f3ec62efe4d0266dc62fe8a6d86a/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f344866270796ea1ffdc8735403d544b/transformed/ui/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity-ktx:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/fd1f860b528260421ab5504880dddad6/transformed/activity-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/7f2a042615ae09ca40ff8d7425326f8f/transformed/activity-1.13.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity-compose:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/47c0b1c1d1d331587e1f80b3e7d16c97/transformed/activity-compose-1.13.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.core:core-viewtree:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/b6c74a9abcc86e843a726f88fa5dd4f4/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/285f613ee53cdc45a860f3eaddfa9766/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/c663a7c25f91f55b1a7a748173c6be8e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.2.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/42e2aeaf0f07c1a146b8425f447b0551/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/da7a4b8046f4015595604de5c27f05ff/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/816f8868f0e636ca38f297e47461c1cf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0d932e579d9903e8502d0011ce664e80/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.compose.material3:material3-android:1.12.0-alpha03] /Users/canceltell/.gradle/caches/9.5.1/transforms/a0adf83b656cf668f8ca97f64beeb4c7/transformed/material3/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/446aa8b333ab51e9d0da4ce2ac20a5a6/transformed/library-release/AndroidManifest.xml:2:1-16:12
+MERGED from [org.jetbrains.compose.material:material-ripple-android:1.12.0-beta01] /Users/canceltell/.gradle/caches/9.5.1/transforms/e5e325cceed85b8de03af20dc7480056/transformed/material-ripple/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.animation:animation-core-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/aee5a087911d85eb98773727ec5f80d5/transformed/animation-core/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.animation:animation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/161783cc16ef8c86e441788a46fddcba/transformed/animation/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.foundation:foundation-layout-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a223e8a1474a1cfad52836ed287434c8/transformed/foundation-layout/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.foundation:foundation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9aafa2c140cfa552a9f4b72a4e5ef176/transformed/foundation/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.ui:ui-unit-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/81949a296bc352e6678a1bd8f337a64b/transformed/ui-unit/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.ui:ui-graphics-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0224d13aec6bad2fa024093c59dce9c0/transformed/ui-graphics/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.ui:ui-geometry-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5181a36b09825246c7b2de3cb489ac26/transformed/ui-geometry/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.ui:ui-util-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/7c7a429faafec0ddf521be13a214dd37/transformed/ui-util/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.ui:ui-text-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/fbc6c416221b4d6bfd102160a6298b22/transformed/ui-text/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.ui:ui-tooling-data-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/bf6527e45a760c46a8b2df646ed850db/transformed/ui-tooling-data/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.ui:ui-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a03b1e492f86f23af1c16e8e3a67c923/transformed/ui/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.ui:ui-tooling-preview-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/c24bb0aed89cd6703d4479b35cdfaa31/transformed/ui-tooling-preview/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e753eef54c8e5af86f3a7c40403d6801/transformed/ui-tooling/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material3:material3-android:1.5.0-alpha22] /Users/canceltell/.gradle/caches/9.5.1/transforms/c84574158af8bdc5ae23b4a70eabcddb/transformed/material3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation3:navigation3-runtime-android:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/c5281cd42ab0896d5089b2a461a6e2a8/transformed/navigation3-runtime/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation3:navigation3-ui-android:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/aba2e7a18d4ee94e90f9483ae21664d8/transformed/navigation3-ui/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.12.0-beta01] /Users/canceltell/.gradle/caches/9.5.1/transforms/eb80020f87b93228cb6ad40dabb7564a/transformed/material-ripple/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/85635902358b86f440338f5d33bb1b92/transformed/animation-core/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/662dc5fc6e9680b36c71d0fd391d9060/transformed/animation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/c681428079fb5a8f8a0177be7836ac98/transformed/foundation-layout/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/eae328735d452f21646d76e0160e17ad/transformed/foundation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0a8c1270ee7dc20a4356bd4c4c7cd16f/transformed/ui-unit/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/bb60f72aba11a3abd58ccdd9ea54138b/transformed/ui-graphics/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/834ef5ae2ffbc2cf1e79bfdc189c1260/transformed/ui-geometry/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2b520bc554f095b922bed1f9ddda8103/transformed/ui-util/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a72fd91d1d8288b91aa8af806dc6b554/transformed/ui-text/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d015ed606da8aae4896c4378dca12f05/transformed/ui-tooling-data/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f3b0c1197d43d44749c81aadd8b4a166/transformed/ui-tooling-preview/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/85d05fe589f50d62f8d00d62739be101/transformed/ui-tooling/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/debd264cd7f5d2091b69986e71615072/transformed/savedstate-ktx-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d124f5547a4cdc1474f1dac884038010/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.graphics:graphics-shapes-android:1.1.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/655654f7715ba34310a4a45925bddf3a/transformed/graphics-shapes/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2646df983529ad2ff814645760762429/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e7baea9c4ae3e4fec949cccb3bab6416/transformed/lifecycle-livedata-core-2.11.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/53d0958f08dcd48fdb8b921f2c9eab1b/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/c486c887697ed78fb01d6011946725e3/transformed/lifecycle-viewmodel/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/b4feab8aef210a659a0d607eb70156b4/transformed/lifecycle-viewmodel-ktx-2.11.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9904b8fc0c968f7b102afd9e80ac12ba/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.2] /Users/canceltell/.gradle/caches/9.5.1/transforms/a11a35691e897f3a3e818b5a7201b8d8/transformed/navigationevent-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.2] /Users/canceltell/.gradle/caches/9.5.1/transforms/2c46be2d79b805df4f455f4cc7868bc6/transformed/navigationevent/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d8091b9a5ebd98b7d5418f8d017b438b/transformed/runtime-annotation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2b8cf7f382b0082d671654dd80ae2a80/transformed/runtime-retain/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/43a06f3fe110d90ad8cddf157a527f92/transformed/runtime-saveable/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5d4b49f4417611e68c188136e3f289be/transformed/lifecycle-runtime-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/4dee6c9dbccb5f339dd1641abcdc514a/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9d00cf25fde303c624f55d1cb158d3f4/transformed/core-ktx-1.18.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f57b8cda624774b50ad036ef6c47cf8e/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-core-android:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e0901cde8efa99ec5593fa1783694076/transformed/window-core/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/edc611780bd3da54fc33057a33386e5d/transformed/window-1.5.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/6bd3243f1408799385d6c8a11e4ed478/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/00139618232a8756e881060e72a05cc4/transformed/core-1.18.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9044f6b5af7ea855f45d32e549c186c8/transformed/lifecycle-runtime/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-runtime-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/92908eeff29eeed442ec83497d11102f/transformed/lifecycle-runtime/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/42d3e59e721e6c1a618e4e333548f274/transformed/lifecycle-viewmodel/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/6b6d99207e5c90e5a3c99dcf9279902c/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/8b4a97ea2c07701cf25580af798d572b/transformed/savedstate/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5ca562e13981356d13606d1929ceb7f6/transformed/savedstate-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/7956b33c66a650e6b4d13208006bd46b/transformed/runtime/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.runtime:runtime-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/fa1af0fa2da2b71690e845d9ed5467d9/transformed/runtime/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.runtime:runtime-saveable-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/057bfef975f9f04d2c4d3756ad259498/transformed/runtime-saveable/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/69bf5521165ba1e9b7f50001e97ad285/transformed/lifecycle-runtime-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a9d145bd2b84c16f250b3c9430e7bdc5/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/63e01f2a0f08eea5bdeec670643dedc4/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/fc1ca34b0c04c0e484cf301c3fa2eff2/transformed/ui/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e4de242dad3dabb3dbfb4eaf0613f2ad/transformed/activity-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/7082b1c448b20696532ede810480c687/transformed/activity-1.13.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d8ccdbfabba028fc7559349cea9158d0/transformed/activity-compose-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ba6adf3c967cca17617ef8ea29bb8fed/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/d8beabd137288a4887ce2e32b3a0ac33/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/74e7a0f4edfb076cb198f3113e50f653/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/1f8c1ac3739eebac32e28bb45d0d2528/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d1bfde696a2ad501c720535c39dfb845/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ef918bbdf3d2c82111f9795c204edc55/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0fe7750d49fc061c231aa414f6abc6cb/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
 	package
 		INJECTED from /Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml
 	android:versionName
@@ -92,30 +94,30 @@ MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/canceltell/.gradle/ca
 application
 ADDED from /Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:4:5-20:19
 INJECTED from /Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:4:5-20:19
-MERGED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0adb4309e631e7dc198e98ed6c385410/transformed/library-release/AndroidManifest.xml:7:5-14:19
-MERGED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0adb4309e631e7dc198e98ed6c385410/transformed/library-release/AndroidManifest.xml:7:5-14:19
-MERGED from [org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a6ca2ee1ab36127cbfd3ca567321bba7/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
-MERGED from [org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a6ca2ee1ab36127cbfd3ca567321bba7/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ada2b88990bfd01ae200a57605b5ce39/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ada2b88990bfd01ae200a57605b5ce39/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/be09e897166dd959b0d198846b65b374/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/be09e897166dd959b0d198846b65b374/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:22:5-29:19
-MERGED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:22:5-29:19
-MERGED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/c663a7c25f91f55b1a7a748173c6be8e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/c663a7c25f91f55b1a7a748173c6be8e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/816f8868f0e636ca38f297e47461c1cf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/816f8868f0e636ca38f297e47461c1cf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/446aa8b333ab51e9d0da4ce2ac20a5a6/transformed/library-release/AndroidManifest.xml:7:5-14:19
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/446aa8b333ab51e9d0da4ce2ac20a5a6/transformed/library-release/AndroidManifest.xml:7:5-14:19
+MERGED from [org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e753eef54c8e5af86f3a7c40403d6801/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
+MERGED from [org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e753eef54c8e5af86f3a7c40403d6801/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/85d05fe589f50d62f8d00d62739be101/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/85d05fe589f50d62f8d00d62739be101/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2646df983529ad2ff814645760762429/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2646df983529ad2ff814645760762429/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9904b8fc0c968f7b102afd9e80ac12ba/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9904b8fc0c968f7b102afd9e80ac12ba/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/edc611780bd3da54fc33057a33386e5d/transformed/window-1.5.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/edc611780bd3da54fc33057a33386e5d/transformed/window-1.5.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/00139618232a8756e881060e72a05cc4/transformed/core-1.18.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/00139618232a8756e881060e72a05cc4/transformed/core-1.18.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/74e7a0f4edfb076cb198f3113e50f653/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/74e7a0f4edfb076cb198f3113e50f653/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/1f8c1ac3739eebac32e28bb45d0d2528/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/1f8c1ac3739eebac32e28bb45d0d2528/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
 		INJECTED from /Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/00139618232a8756e881060e72a05cc4/transformed/core-1.18.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from /Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml:9:13-39
 	android:label
@@ -150,283 +152,287 @@ INJECTED from /Users/canceltell/MedicineProject/androidApp/src/main/AndroidManif
 INJECTED from /Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml
 MERGED from [:shared] /Users/canceltell/MedicineProject/shared/build/intermediates/merged_manifest/androidMain/processAndroidMainManifest/AndroidManifest.xml:5:5-44
 MERGED from [:shared] /Users/canceltell/MedicineProject/shared/build/intermediates/merged_manifest/androidMain/processAndroidMainManifest/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.material3:material3-android:1.12.0-alpha03] /Users/canceltell/.gradle/caches/9.5.1/transforms/3261c5da7b403869a381ce1cfec0ac3c/transformed/material3/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.compose.material3:material3-android:1.12.0-alpha03] /Users/canceltell/.gradle/caches/9.5.1/transforms/3261c5da7b403869a381ce1cfec0ac3c/transformed/material3/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0adb4309e631e7dc198e98ed6c385410/transformed/library-release/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0adb4309e631e7dc198e98ed6c385410/transformed/library-release/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.material:material-ripple-android:1.12.0-beta01] /Users/canceltell/.gradle/caches/9.5.1/transforms/8d3e92877e05ce920cfa946e8a70dded/transformed/material-ripple/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.material:material-ripple-android:1.12.0-beta01] /Users/canceltell/.gradle/caches/9.5.1/transforms/8d3e92877e05ce920cfa946e8a70dded/transformed/material-ripple/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.animation:animation-core-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0e76ab67a890d31d7b455f73557f68f4/transformed/animation-core/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.animation:animation-core-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0e76ab67a890d31d7b455f73557f68f4/transformed/animation-core/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.animation:animation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/753e47aebad6a93bcc03ec00521b0426/transformed/animation/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.animation:animation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/753e47aebad6a93bcc03ec00521b0426/transformed/animation/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.foundation:foundation-layout-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/3940b6f2ac34f85eb5cd0c3b1b1e9537/transformed/foundation-layout/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.foundation:foundation-layout-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/3940b6f2ac34f85eb5cd0c3b1b1e9537/transformed/foundation-layout/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.foundation:foundation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d3cb548fdb10d89fe8153836cd580724/transformed/foundation/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.foundation:foundation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d3cb548fdb10d89fe8153836cd580724/transformed/foundation/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-unit-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/77bf66d735216464a3f14fa27b59ca79/transformed/ui-unit/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-unit-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/77bf66d735216464a3f14fa27b59ca79/transformed/ui-unit/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-graphics-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/988d1c5b0c6a99e28f00d5f5ad0e70a2/transformed/ui-graphics/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-graphics-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/988d1c5b0c6a99e28f00d5f5ad0e70a2/transformed/ui-graphics/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-geometry-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/41ef4ad4e9a8adbc5433732e65e7554b/transformed/ui-geometry/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-geometry-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/41ef4ad4e9a8adbc5433732e65e7554b/transformed/ui-geometry/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-util-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/6365a9f9f981ad4c5f699014db36f400/transformed/ui-util/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-util-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/6365a9f9f981ad4c5f699014db36f400/transformed/ui-util/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-text-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2fa8f06c2a0e4bb6d7f3d51e865e4116/transformed/ui-text/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-text-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2fa8f06c2a0e4bb6d7f3d51e865e4116/transformed/ui-text/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-tooling-data-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/15a72dffdd68ab617d9f857acd3a5ef9/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-tooling-data-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/15a72dffdd68ab617d9f857acd3a5ef9/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/3dc653fc4eac6fb5308eee166d27ef17/transformed/ui/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/3dc653fc4eac6fb5308eee166d27ef17/transformed/ui/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.ui:ui-tooling-preview-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/bebc0a06cc89da1ba08a85b1144e3bf6/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.compose.ui:ui-tooling-preview-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/bebc0a06cc89da1ba08a85b1144e3bf6/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a6ca2ee1ab36127cbfd3ca567321bba7/transformed/ui-tooling/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a6ca2ee1ab36127cbfd3ca567321bba7/transformed/ui-tooling/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/b7426486165d104a56e896521ca442c1/transformed/navigationevent/AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/b7426486165d104a56e896521ca442c1/transformed/navigationevent/AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/7e07798ab87db381ad55c24b1d1854da/transformed/navigationevent-compose/AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/7e07798ab87db381ad55c24b1d1854da/transformed/navigationevent-compose/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material3:material3-android:1.5.0-alpha22] /Users/canceltell/.gradle/caches/9.5.1/transforms/471e3220a3f3a097558d816219851d1c/transformed/material3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material3:material3-android:1.5.0-alpha22] /Users/canceltell/.gradle/caches/9.5.1/transforms/471e3220a3f3a097558d816219851d1c/transformed/material3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-ripple-android:1.12.0-beta01] /Users/canceltell/.gradle/caches/9.5.1/transforms/3efbaf8d8d2d003d8ef014101933f70e/transformed/material-ripple/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-ripple-android:1.12.0-beta01] /Users/canceltell/.gradle/caches/9.5.1/transforms/3efbaf8d8d2d003d8ef014101933f70e/transformed/material-ripple/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/eaa498e03601eb234f208ba84e160779/transformed/animation-core/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/eaa498e03601eb234f208ba84e160779/transformed/animation-core/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/bcbf4d6a7691a1ec7bd26996d84a49cd/transformed/animation/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/bcbf4d6a7691a1ec7bd26996d84a49cd/transformed/animation/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/74b26d3506154521a0322fab6f114eb5/transformed/foundation-layout/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/74b26d3506154521a0322fab6f114eb5/transformed/foundation-layout/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/af1e3bf3989e9bfc9d578469a67bccf8/transformed/foundation/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/af1e3bf3989e9bfc9d578469a67bccf8/transformed/foundation/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1e87092513c330f6d3faea1cfb15f67e/transformed/ui-unit/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1e87092513c330f6d3faea1cfb15f67e/transformed/ui-unit/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5da266bae6183b033eae34a2cd2d16c7/transformed/ui-graphics/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5da266bae6183b033eae34a2cd2d16c7/transformed/ui-graphics/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/05d1b56f66e519d663c79bfeb9b3f775/transformed/ui-geometry/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/05d1b56f66e519d663c79bfeb9b3f775/transformed/ui-geometry/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/6c7e09f1f8a0e81bbf4c921e6d5a52e2/transformed/ui-util/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/6c7e09f1f8a0e81bbf4c921e6d5a52e2/transformed/ui-util/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1c0608b96e2d9247d1d52ea86ce1d865/transformed/ui-text/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1c0608b96e2d9247d1d52ea86ce1d865/transformed/ui-text/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/745cfc2b2f0c83a4f0d05e6b23ca48f3/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/745cfc2b2f0c83a4f0d05e6b23ca48f3/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/977bd2941fe4b8e3b5cffee2dbb60ad6/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/977bd2941fe4b8e3b5cffee2dbb60ad6/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ada2b88990bfd01ae200a57605b5ce39/transformed/ui-tooling/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ada2b88990bfd01ae200a57605b5ce39/transformed/ui-tooling/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/3f960e4379082ae51a4e8202efe2990d/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/3f960e4379082ae51a4e8202efe2990d/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-annotation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/663ddcd64cde911388150249e3693b47/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-annotation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/663ddcd64cde911388150249e3693b47/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-retain-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/c3a22d45fc0886ab10925b40df4897ae/transformed/runtime-retain/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-retain-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/c3a22d45fc0886ab10925b40df4897ae/transformed/runtime-retain/AndroidManifest.xml:5:5-44
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ac736cdf960f9c9d99702c18520b6e62/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ac736cdf960f9c9d99702c18520b6e62/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.graphics:graphics-shapes-android:1.1.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2fd57436a8a411f2bad43d18368c6607/transformed/graphics-shapes/AndroidManifest.xml:5:5-44
-MERGED from [androidx.graphics:graphics-shapes-android:1.1.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2fd57436a8a411f2bad43d18368c6607/transformed/graphics-shapes/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/348f218d3ea91d36cae7a251b6d38246/transformed/lifecycle-livedata-core-2.11.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/348f218d3ea91d36cae7a251b6d38246/transformed/lifecycle-livedata-core-2.11.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/90be19f26aa53f9f87844e3387d1b5e5/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/90be19f26aa53f9f87844e3387d1b5e5/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/283c6fb0f0da4de23690c9bcaee953ec/transformed/lifecycle-viewmodel/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/283c6fb0f0da4de23690c9bcaee953ec/transformed/lifecycle-viewmodel/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/84f2bc12d8fb6c8c4ebc9296a5a4beec/transformed/lifecycle-viewmodel-ktx-2.11.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/84f2bc12d8fb6c8c4ebc9296a5a4beec/transformed/lifecycle-viewmodel-ktx-2.11.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/be09e897166dd959b0d198846b65b374/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/be09e897166dd959b0d198846b65b374/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2c9f377253ecf355a6814718679b7b91/transformed/lifecycle-runtime-compose/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2c9f377253ecf355a6814718679b7b91/transformed/lifecycle-runtime-compose/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/499e2c21c6daf5c155d30d34ce842907/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/499e2c21c6daf5c155d30d34ce842907/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/20f9467fab26cfea879ff7c19a3ad4b2/transformed/core-ktx-1.18.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/20f9467fab26cfea879ff7c19a3ad4b2/transformed/core-ktx-1.18.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1bb2c84b32e8e0b651d561840f8b39cd/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1bb2c84b32e8e0b651d561840f8b39cd/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window-core-android:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/81e7deface5178536cca115b95a025e1/transformed/window-core/AndroidManifest.xml:5:5-44
-MERGED from [androidx.window:window-core-android:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/81e7deface5178536cca115b95a025e1/transformed/window-core/AndroidManifest.xml:5:5-44
-MERGED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/81da763019a2c6467ff0c4d7346e3687/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/81da763019a2c6467ff0c4d7346e3687/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5f9802ccac6a35d433f80b857278a197/transformed/lifecycle-runtime/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5f9802ccac6a35d433f80b857278a197/transformed/lifecycle-runtime/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-runtime-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a4a4a7fcc2ce81ffa770b7a9770dd575/transformed/lifecycle-runtime/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-runtime-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a4a4a7fcc2ce81ffa770b7a9770dd575/transformed/lifecycle-runtime/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/845cf059d104da165965f8210f1534ad/transformed/lifecycle-viewmodel/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/845cf059d104da165965f8210f1534ad/transformed/lifecycle-viewmodel/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2dd2f456cad9cea758b1fd9e79e5af56/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2dd2f456cad9cea758b1fd9e79e5af56/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-android:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f8dd7c1e4d12cd5bc61c9b231435916b/transformed/savedstate/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-android:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f8dd7c1e4d12cd5bc61c9b231435916b/transformed/savedstate/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/b955f73093251eb33307f3638da8e97b/transformed/savedstate-ktx-1.4.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/b955f73093251eb33307f3638da8e97b/transformed/savedstate-ktx-1.4.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/930e30bda1fa7df9c3075adb477b1e97/transformed/savedstate-compose/AndroidManifest.xml:5:5-44
-MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/930e30bda1fa7df9c3075adb477b1e97/transformed/savedstate-compose/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/4f525e75f742ca6bba69a37bfe4c4208/transformed/runtime/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/4f525e75f742ca6bba69a37bfe4c4208/transformed/runtime/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.runtime:runtime-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/377f4e05fe321b7ee896eeca9721f03b/transformed/runtime/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.runtime:runtime-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/377f4e05fe321b7ee896eeca9721f03b/transformed/runtime/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.runtime:runtime-saveable-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9fea570193c082b1dbc2dd3f0e7892f6/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.compose.runtime:runtime-saveable-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9fea570193c082b1dbc2dd3f0e7892f6/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/70a106499d172335ef65d3db5bc90892/transformed/lifecycle-runtime-compose/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/70a106499d172335ef65d3db5bc90892/transformed/lifecycle-runtime-compose/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e29b3991ff5422afb3ac9968d8a72a39/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e29b3991ff5422afb3ac9968d8a72a39/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f542f3ec62efe4d0266dc62fe8a6d86a/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f542f3ec62efe4d0266dc62fe8a6d86a/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f344866270796ea1ffdc8735403d544b/transformed/ui/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f344866270796ea1ffdc8735403d544b/transformed/ui/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/fd1f860b528260421ab5504880dddad6/transformed/activity-ktx-1.13.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/fd1f860b528260421ab5504880dddad6/transformed/activity-ktx-1.13.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/7f2a042615ae09ca40ff8d7425326f8f/transformed/activity-1.13.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/7f2a042615ae09ca40ff8d7425326f8f/transformed/activity-1.13.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-compose:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/47c0b1c1d1d331587e1f80b3e7d16c97/transformed/activity-compose-1.13.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-compose:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/47c0b1c1d1d331587e1f80b3e7d16c97/transformed/activity-compose-1.13.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-viewtree:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/b6c74a9abcc86e843a726f88fa5dd4f4/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-viewtree:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/b6c74a9abcc86e843a726f88fa5dd4f4/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/285f613ee53cdc45a860f3eaddfa9766/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/285f613ee53cdc45a860f3eaddfa9766/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/c663a7c25f91f55b1a7a748173c6be8e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/c663a7c25f91f55b1a7a748173c6be8e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.2.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/42e2aeaf0f07c1a146b8425f447b0551/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing:1.2.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/42e2aeaf0f07c1a146b8425f447b0551/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/da7a4b8046f4015595604de5c27f05ff/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/da7a4b8046f4015595604de5c27f05ff/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/816f8868f0e636ca38f297e47461c1cf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/816f8868f0e636ca38f297e47461c1cf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0d932e579d9903e8502d0011ce664e80/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0d932e579d9903e8502d0011ce664e80/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.compose.material3:material3-android:1.12.0-alpha03] /Users/canceltell/.gradle/caches/9.5.1/transforms/a0adf83b656cf668f8ca97f64beeb4c7/transformed/material3/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.compose.material3:material3-android:1.12.0-alpha03] /Users/canceltell/.gradle/caches/9.5.1/transforms/a0adf83b656cf668f8ca97f64beeb4c7/transformed/material3/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/446aa8b333ab51e9d0da4ce2ac20a5a6/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/446aa8b333ab51e9d0da4ce2ac20a5a6/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.material:material-ripple-android:1.12.0-beta01] /Users/canceltell/.gradle/caches/9.5.1/transforms/e5e325cceed85b8de03af20dc7480056/transformed/material-ripple/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.material:material-ripple-android:1.12.0-beta01] /Users/canceltell/.gradle/caches/9.5.1/transforms/e5e325cceed85b8de03af20dc7480056/transformed/material-ripple/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.animation:animation-core-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/aee5a087911d85eb98773727ec5f80d5/transformed/animation-core/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.animation:animation-core-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/aee5a087911d85eb98773727ec5f80d5/transformed/animation-core/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.animation:animation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/161783cc16ef8c86e441788a46fddcba/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.animation:animation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/161783cc16ef8c86e441788a46fddcba/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.foundation:foundation-layout-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a223e8a1474a1cfad52836ed287434c8/transformed/foundation-layout/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.foundation:foundation-layout-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a223e8a1474a1cfad52836ed287434c8/transformed/foundation-layout/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.foundation:foundation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9aafa2c140cfa552a9f4b72a4e5ef176/transformed/foundation/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.foundation:foundation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9aafa2c140cfa552a9f4b72a4e5ef176/transformed/foundation/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-unit-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/81949a296bc352e6678a1bd8f337a64b/transformed/ui-unit/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-unit-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/81949a296bc352e6678a1bd8f337a64b/transformed/ui-unit/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-graphics-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0224d13aec6bad2fa024093c59dce9c0/transformed/ui-graphics/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-graphics-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0224d13aec6bad2fa024093c59dce9c0/transformed/ui-graphics/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-geometry-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5181a36b09825246c7b2de3cb489ac26/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-geometry-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5181a36b09825246c7b2de3cb489ac26/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-util-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/7c7a429faafec0ddf521be13a214dd37/transformed/ui-util/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-util-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/7c7a429faafec0ddf521be13a214dd37/transformed/ui-util/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-text-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/fbc6c416221b4d6bfd102160a6298b22/transformed/ui-text/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-text-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/fbc6c416221b4d6bfd102160a6298b22/transformed/ui-text/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-tooling-data-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/bf6527e45a760c46a8b2df646ed850db/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-tooling-data-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/bf6527e45a760c46a8b2df646ed850db/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a03b1e492f86f23af1c16e8e3a67c923/transformed/ui/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a03b1e492f86f23af1c16e8e3a67c923/transformed/ui/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-tooling-preview-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/c24bb0aed89cd6703d4479b35cdfaa31/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.compose.ui:ui-tooling-preview-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/c24bb0aed89cd6703d4479b35cdfaa31/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e753eef54c8e5af86f3a7c40403d6801/transformed/ui-tooling/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e753eef54c8e5af86f3a7c40403d6801/transformed/ui-tooling/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.5.0-alpha22] /Users/canceltell/.gradle/caches/9.5.1/transforms/c84574158af8bdc5ae23b4a70eabcddb/transformed/material3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.5.0-alpha22] /Users/canceltell/.gradle/caches/9.5.1/transforms/c84574158af8bdc5ae23b4a70eabcddb/transformed/material3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation3:navigation3-runtime-android:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/c5281cd42ab0896d5089b2a461a6e2a8/transformed/navigation3-runtime/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation3:navigation3-runtime-android:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/c5281cd42ab0896d5089b2a461a6e2a8/transformed/navigation3-runtime/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation3:navigation3-ui-android:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/aba2e7a18d4ee94e90f9483ae21664d8/transformed/navigation3-ui/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation3:navigation3-ui-android:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/aba2e7a18d4ee94e90f9483ae21664d8/transformed/navigation3-ui/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.12.0-beta01] /Users/canceltell/.gradle/caches/9.5.1/transforms/eb80020f87b93228cb6ad40dabb7564a/transformed/material-ripple/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.12.0-beta01] /Users/canceltell/.gradle/caches/9.5.1/transforms/eb80020f87b93228cb6ad40dabb7564a/transformed/material-ripple/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/85635902358b86f440338f5d33bb1b92/transformed/animation-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/85635902358b86f440338f5d33bb1b92/transformed/animation-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/662dc5fc6e9680b36c71d0fd391d9060/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/662dc5fc6e9680b36c71d0fd391d9060/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/c681428079fb5a8f8a0177be7836ac98/transformed/foundation-layout/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/c681428079fb5a8f8a0177be7836ac98/transformed/foundation-layout/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/eae328735d452f21646d76e0160e17ad/transformed/foundation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/eae328735d452f21646d76e0160e17ad/transformed/foundation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0a8c1270ee7dc20a4356bd4c4c7cd16f/transformed/ui-unit/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0a8c1270ee7dc20a4356bd4c4c7cd16f/transformed/ui-unit/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/bb60f72aba11a3abd58ccdd9ea54138b/transformed/ui-graphics/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/bb60f72aba11a3abd58ccdd9ea54138b/transformed/ui-graphics/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/834ef5ae2ffbc2cf1e79bfdc189c1260/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/834ef5ae2ffbc2cf1e79bfdc189c1260/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2b520bc554f095b922bed1f9ddda8103/transformed/ui-util/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2b520bc554f095b922bed1f9ddda8103/transformed/ui-util/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a72fd91d1d8288b91aa8af806dc6b554/transformed/ui-text/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a72fd91d1d8288b91aa8af806dc6b554/transformed/ui-text/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d015ed606da8aae4896c4378dca12f05/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d015ed606da8aae4896c4378dca12f05/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f3b0c1197d43d44749c81aadd8b4a166/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f3b0c1197d43d44749c81aadd8b4a166/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/85d05fe589f50d62f8d00d62739be101/transformed/ui-tooling/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/85d05fe589f50d62f8d00d62739be101/transformed/ui-tooling/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/debd264cd7f5d2091b69986e71615072/transformed/savedstate-ktx-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/debd264cd7f5d2091b69986e71615072/transformed/savedstate-ktx-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d124f5547a4cdc1474f1dac884038010/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d124f5547a4cdc1474f1dac884038010/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.graphics:graphics-shapes-android:1.1.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/655654f7715ba34310a4a45925bddf3a/transformed/graphics-shapes/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.1.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/655654f7715ba34310a4a45925bddf3a/transformed/graphics-shapes/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2646df983529ad2ff814645760762429/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2646df983529ad2ff814645760762429/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e7baea9c4ae3e4fec949cccb3bab6416/transformed/lifecycle-livedata-core-2.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e7baea9c4ae3e4fec949cccb3bab6416/transformed/lifecycle-livedata-core-2.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/53d0958f08dcd48fdb8b921f2c9eab1b/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/53d0958f08dcd48fdb8b921f2c9eab1b/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/c486c887697ed78fb01d6011946725e3/transformed/lifecycle-viewmodel/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/c486c887697ed78fb01d6011946725e3/transformed/lifecycle-viewmodel/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/b4feab8aef210a659a0d607eb70156b4/transformed/lifecycle-viewmodel-ktx-2.11.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/b4feab8aef210a659a0d607eb70156b4/transformed/lifecycle-viewmodel-ktx-2.11.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9904b8fc0c968f7b102afd9e80ac12ba/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9904b8fc0c968f7b102afd9e80ac12ba/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.2] /Users/canceltell/.gradle/caches/9.5.1/transforms/a11a35691e897f3a3e818b5a7201b8d8/transformed/navigationevent-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.2] /Users/canceltell/.gradle/caches/9.5.1/transforms/a11a35691e897f3a3e818b5a7201b8d8/transformed/navigationevent-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.2] /Users/canceltell/.gradle/caches/9.5.1/transforms/2c46be2d79b805df4f455f4cc7868bc6/transformed/navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.2] /Users/canceltell/.gradle/caches/9.5.1/transforms/2c46be2d79b805df4f455f4cc7868bc6/transformed/navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d8091b9a5ebd98b7d5418f8d017b438b/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d8091b9a5ebd98b7d5418f8d017b438b/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2b8cf7f382b0082d671654dd80ae2a80/transformed/runtime-retain/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2b8cf7f382b0082d671654dd80ae2a80/transformed/runtime-retain/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/43a06f3fe110d90ad8cddf157a527f92/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/43a06f3fe110d90ad8cddf157a527f92/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5d4b49f4417611e68c188136e3f289be/transformed/lifecycle-runtime-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5d4b49f4417611e68c188136e3f289be/transformed/lifecycle-runtime-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/4dee6c9dbccb5f339dd1641abcdc514a/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/4dee6c9dbccb5f339dd1641abcdc514a/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9d00cf25fde303c624f55d1cb158d3f4/transformed/core-ktx-1.18.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9d00cf25fde303c624f55d1cb158d3f4/transformed/core-ktx-1.18.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f57b8cda624774b50ad036ef6c47cf8e/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f57b8cda624774b50ad036ef6c47cf8e/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-core-android:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e0901cde8efa99ec5593fa1783694076/transformed/window-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-core-android:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e0901cde8efa99ec5593fa1783694076/transformed/window-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/edc611780bd3da54fc33057a33386e5d/transformed/window-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/edc611780bd3da54fc33057a33386e5d/transformed/window-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/6bd3243f1408799385d6c8a11e4ed478/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/6bd3243f1408799385d6c8a11e4ed478/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/00139618232a8756e881060e72a05cc4/transformed/core-1.18.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/00139618232a8756e881060e72a05cc4/transformed/core-1.18.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9044f6b5af7ea855f45d32e549c186c8/transformed/lifecycle-runtime/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9044f6b5af7ea855f45d32e549c186c8/transformed/lifecycle-runtime/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-runtime-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/92908eeff29eeed442ec83497d11102f/transformed/lifecycle-runtime/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-runtime-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/92908eeff29eeed442ec83497d11102f/transformed/lifecycle-runtime/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/42d3e59e721e6c1a618e4e333548f274/transformed/lifecycle-viewmodel/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/42d3e59e721e6c1a618e4e333548f274/transformed/lifecycle-viewmodel/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/6b6d99207e5c90e5a3c99dcf9279902c/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/6b6d99207e5c90e5a3c99dcf9279902c/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/8b4a97ea2c07701cf25580af798d572b/transformed/savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/8b4a97ea2c07701cf25580af798d572b/transformed/savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5ca562e13981356d13606d1929ceb7f6/transformed/savedstate-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5ca562e13981356d13606d1929ceb7f6/transformed/savedstate-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/7956b33c66a650e6b4d13208006bd46b/transformed/runtime/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/7956b33c66a650e6b4d13208006bd46b/transformed/runtime/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.runtime:runtime-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/fa1af0fa2da2b71690e845d9ed5467d9/transformed/runtime/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.runtime:runtime-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/fa1af0fa2da2b71690e845d9ed5467d9/transformed/runtime/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.runtime:runtime-saveable-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/057bfef975f9f04d2c4d3756ad259498/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.runtime:runtime-saveable-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/057bfef975f9f04d2c4d3756ad259498/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/69bf5521165ba1e9b7f50001e97ad285/transformed/lifecycle-runtime-compose/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/69bf5521165ba1e9b7f50001e97ad285/transformed/lifecycle-runtime-compose/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a9d145bd2b84c16f250b3c9430e7bdc5/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a9d145bd2b84c16f250b3c9430e7bdc5/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/63e01f2a0f08eea5bdeec670643dedc4/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/63e01f2a0f08eea5bdeec670643dedc4/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/fc1ca34b0c04c0e484cf301c3fa2eff2/transformed/ui/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/fc1ca34b0c04c0e484cf301c3fa2eff2/transformed/ui/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e4de242dad3dabb3dbfb4eaf0613f2ad/transformed/activity-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e4de242dad3dabb3dbfb4eaf0613f2ad/transformed/activity-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/7082b1c448b20696532ede810480c687/transformed/activity-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/7082b1c448b20696532ede810480c687/transformed/activity-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d8ccdbfabba028fc7559349cea9158d0/transformed/activity-compose-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.13.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d8ccdbfabba028fc7559349cea9158d0/transformed/activity-compose-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ba6adf3c967cca17617ef8ea29bb8fed/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ba6adf3c967cca17617ef8ea29bb8fed/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/d8beabd137288a4887ce2e32b3a0ac33/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/d8beabd137288a4887ce2e32b3a0ac33/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/74e7a0f4edfb076cb198f3113e50f653/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/74e7a0f4edfb076cb198f3113e50f653/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/1f8c1ac3739eebac32e28bb45d0d2528/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/1f8c1ac3739eebac32e28bb45d0d2528/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d1bfde696a2ad501c720535c39dfb845/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/d1bfde696a2ad501c720535c39dfb845/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ef918bbdf3d2c82111f9795c204edc55/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ef918bbdf3d2c82111f9795c204edc55/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0fe7750d49fc061c231aa414f6abc6cb/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0fe7750d49fc061c231aa414f6abc6cb/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
 		INJECTED from /Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/canceltell/MedicineProject/androidApp/src/main/AndroidManifest.xml
 provider#org.jetbrains.compose.resources.AndroidContextProvider
-ADDED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0adb4309e631e7dc198e98ed6c385410/transformed/library-release/AndroidManifest.xml:8:9-13:20
+ADDED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/446aa8b333ab51e9d0da4ce2ac20a5a6/transformed/library-release/AndroidManifest.xml:8:9-13:20
 	android:enabled
-		ADDED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0adb4309e631e7dc198e98ed6c385410/transformed/library-release/AndroidManifest.xml:11:13-35
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/446aa8b333ab51e9d0da4ce2ac20a5a6/transformed/library-release/AndroidManifest.xml:11:13-35
 	android:authorities
-		ADDED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0adb4309e631e7dc198e98ed6c385410/transformed/library-release/AndroidManifest.xml:10:13-84
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/446aa8b333ab51e9d0da4ce2ac20a5a6/transformed/library-release/AndroidManifest.xml:10:13-84
 	android:exported
-		ADDED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0adb4309e631e7dc198e98ed6c385410/transformed/library-release/AndroidManifest.xml:12:13-37
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/446aa8b333ab51e9d0da4ce2ac20a5a6/transformed/library-release/AndroidManifest.xml:12:13-37
 	android:name
-		ADDED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/0adb4309e631e7dc198e98ed6c385410/transformed/library-release/AndroidManifest.xml:9:13-82
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/446aa8b333ab51e9d0da4ce2ac20a5a6/transformed/library-release/AndroidManifest.xml:9:13-82
 activity#org.jetbrains.androidx.compose.ui.tooling.PreviewActivity
-ADDED from [org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a6ca2ee1ab36127cbfd3ca567321bba7/transformed/ui-tooling/AndroidManifest.xml:23:9-25:39
+ADDED from [org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e753eef54c8e5af86f3a7c40403d6801/transformed/ui-tooling/AndroidManifest.xml:23:9-25:39
 	android:exported
-		ADDED from [org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a6ca2ee1ab36127cbfd3ca567321bba7/transformed/ui-tooling/AndroidManifest.xml:25:13-36
+		ADDED from [org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e753eef54c8e5af86f3a7c40403d6801/transformed/ui-tooling/AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from [org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/a6ca2ee1ab36127cbfd3ca567321bba7/transformed/ui-tooling/AndroidManifest.xml:24:13-85
+		ADDED from [org.jetbrains.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/e753eef54c8e5af86f3a7c40403d6801/transformed/ui-tooling/AndroidManifest.xml:24:13-85
 activity#androidx.compose.ui.tooling.PreviewActivity
-ADDED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ada2b88990bfd01ae200a57605b5ce39/transformed/ui-tooling/AndroidManifest.xml:23:9-25:39
+ADDED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/85d05fe589f50d62f8d00d62739be101/transformed/ui-tooling/AndroidManifest.xml:23:9-25:39
 	android:exported
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ada2b88990bfd01ae200a57605b5ce39/transformed/ui-tooling/AndroidManifest.xml:25:13-36
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/85d05fe589f50d62f8d00d62739be101/transformed/ui-tooling/AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/ada2b88990bfd01ae200a57605b5ce39/transformed/ui-tooling/AndroidManifest.xml:24:13-71
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/85d05fe589f50d62f8d00d62739be101/transformed/ui-tooling/AndroidManifest.xml:24:13-71
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/be09e897166dd959b0d198846b65b374/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/be09e897166dd959b0d198846b65b374/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/c663a7c25f91f55b1a7a748173c6be8e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/c663a7c25f91f55b1a7a748173c6be8e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2646df983529ad2ff814645760762429/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9904b8fc0c968f7b102afd9e80ac12ba/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9904b8fc0c968f7b102afd9e80ac12ba/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/1f8c1ac3739eebac32e28bb45d0d2528/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/canceltell/.gradle/caches/9.5.1/transforms/1f8c1ac3739eebac32e28bb45d0d2528/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2646df983529ad2ff814645760762429/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2646df983529ad2ff814645760762429/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2646df983529ad2ff814645760762429/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2646df983529ad2ff814645760762429/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2646df983529ad2ff814645760762429/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2646df983529ad2ff814645760762429/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/21b1e5eeee445add90e83db6157f6307/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/2646df983529ad2ff814645760762429/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/be09e897166dd959b0d198846b65b374/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9904b8fc0c968f7b102afd9e80ac12ba/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/be09e897166dd959b0d198846b65b374/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9904b8fc0c968f7b102afd9e80ac12ba/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/be09e897166dd959b0d198846b65b374/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:30:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/9904b8fc0c968f7b102afd9e80ac12ba/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:30:17-78
 uses-library#androidx.window.extensions
-ADDED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:23:9-25:40
+ADDED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/edc611780bd3da54fc33057a33386e5d/transformed/window-1.5.0/AndroidManifest.xml:23:9-25:40
 	android:required
-		ADDED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:25:13-37
+		ADDED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/edc611780bd3da54fc33057a33386e5d/transformed/window-1.5.0/AndroidManifest.xml:25:13-37
 	android:name
-		ADDED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:24:13-54
+		ADDED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/edc611780bd3da54fc33057a33386e5d/transformed/window-1.5.0/AndroidManifest.xml:24:13-54
 uses-library#androidx.window.sidecar
-ADDED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:26:9-28:40
+ADDED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/edc611780bd3da54fc33057a33386e5d/transformed/window-1.5.0/AndroidManifest.xml:26:9-28:40
 	android:required
-		ADDED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:28:13-37
+		ADDED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/edc611780bd3da54fc33057a33386e5d/transformed/window-1.5.0/AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/5512c72b28747bb1fa6be31926bcdeec/transformed/window-1.5.0/AndroidManifest.xml:27:13-51
+		ADDED from [androidx.window:window:1.5.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/edc611780bd3da54fc33057a33386e5d/transformed/window-1.5.0/AndroidManifest.xml:27:13-51
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/00139618232a8756e881060e72a05cc4/transformed/core-1.18.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/00139618232a8756e881060e72a05cc4/transformed/core-1.18.0/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/00139618232a8756e881060e72a05cc4/transformed/core-1.18.0/AndroidManifest.xml:23:9-81
 permission#com.example.medicineproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/00139618232a8756e881060e72a05cc4/transformed/core-1.18.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/00139618232a8756e881060e72a05cc4/transformed/core-1.18.0/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/00139618232a8756e881060e72a05cc4/transformed/core-1.18.0/AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/00139618232a8756e881060e72a05cc4/transformed/core-1.18.0/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/00139618232a8756e881060e72a05cc4/transformed/core-1.18.0/AndroidManifest.xml:26:22-94
 uses-permission#com.example.medicineproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/00139618232a8756e881060e72a05cc4/transformed/core-1.18.0/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/55342cf07396a6bb2796c68c4f507f0a/transformed/core-1.18.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.18.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/00139618232a8756e881060e72a05cc4/transformed/core-1.18.0/AndroidManifest.xml:26:22-94
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/1a0bda31113eefd9e703ebab4828bb63/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/canceltell/.gradle/caches/9.5.1/transforms/f5258ceb8917cd394c66bf8305dfaafb/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
