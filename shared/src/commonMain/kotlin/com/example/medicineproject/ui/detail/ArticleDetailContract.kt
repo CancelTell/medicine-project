@@ -1,6 +1,5 @@
 package com.example.medicineproject.detail
 
-import androidx.compose.runtime.Immutable
 import com.example.medicineproject.ui.model.ArticleDetailUi
 
 data class ArticleDetailState(
