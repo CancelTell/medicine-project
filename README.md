@@ -1,15 +1,25 @@
 ## Medical Publications Catalog ##
 
-A **Kotlin Multiplatform** application for exploring scientific medical publications from NCBI PubMed database.
+## Запуск
 
----
+### Desktop
+```bash
+./gradlew :desktopApp:run
+```
 
-##  Overview
+### Android
+Откройте проект в Android Studio / IntelliJ IDEA и запустите конфигурацию `androidApp` на эмуляторе или устройстве.
 
-Medical Publications Catalog is a cross-platform mobile and desktop application that allows users to:
-- **Search** for scientific articles by keywords
-- **View** detailed information about publications (title, authors, journal, abstract)
-- **Discover** related articles
-- **Browse** offline cached results
+## Язык интерфейса
 
-**Last Updated:** September 2026
+Приложение поддерживает английский (по умолчанию) и русский. Язык берётся из системы.
+
+**Desktop** — запуск на нужном языке:
+```bash
+# английский
+JAVA_TOOL_OPTIONS="-Duser.language=en" ./gradlew :desktopApp:run
+# русский
+JAVA_TOOL_OPTIONS="-Duser.language=ru" ./gradlew :desktopApp:run
+```
+
+**Android** — сменить язык устройства: Settings → System → Languages.
