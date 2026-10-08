@@ -4,4 +4,5 @@
     <string name = "article_not_found">Article not found</string>
     <string name = "article_author">By %1$s</string>
     <string name = "back">Back </string>
+    <string name = "related_articles">Related articles</string>
 </resources>

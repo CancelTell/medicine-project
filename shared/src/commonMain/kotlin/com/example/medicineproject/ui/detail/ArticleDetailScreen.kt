@@ -24,6 +24,8 @@ import com.example.medicineproject.resources.Res
 import com.example.medicineproject.resources.article_author
 import com.example.medicineproject.resources.article_not_found
 import com.example.medicineproject.resources.back
+import com.example.medicineproject.resources.related_articles
+import com.example.medicineproject.ui.components.ArticleCard
 import com.example.medicineproject.ui.components.CenteredContent
 import com.example.medicineproject.ui.model.ArticleDetailUi
 import org.jetbrains.compose.resources.stringResource
@@ -52,7 +54,9 @@ fun ArticleDetailScreen(
         when {
             state.isLoading -> CenteredContent { CircularProgressIndicator() }
             article == null -> CenteredContent { Text(stringResource(Res.string.article_not_found)) }
-            else -> ArticleDetailContent(article = article)
+            else -> ArticleDetailContent(
+                article = article,
+                onRelatedClick = { onIntent(ArticleDetailIntent.RelatedClicked(it))},)
         }
     }
 }
@@ -61,6 +65,7 @@ fun ArticleDetailScreen(
 private fun ArticleDetailContent(
     article: ArticleDetailUi,
     modifier: Modifier = Modifier,
+    onRelatedClick: (String) -> Unit,
 ) {
     Column(
         modifier = modifier
@@ -111,6 +116,21 @@ private fun ArticleDetailContent(
                 style = MaterialTheme.typography.bodyLarge,
                 color = MaterialTheme.colorScheme.onSecondary,
             )
+        }
+
+        if (article.related.isNotEmpty()) {
+            Spacer(modifier = Modifier.height(24.dp))
+            Text(
+                text = stringResource(Res.string.related_articles),
+                style = MaterialTheme.typography.titleMedium,
+                fontWeight = FontWeight.Bold,
+                color = MaterialTheme.colorScheme.onSurface,
+            )
+            Spacer(modifier = Modifier.height(12.dp))
+            article.related.forEach { related ->
+                ArticleCard(article = related, onClick = { onRelatedClick(related.id) })
+                Spacer(modifier = Modifier.height(12.dp))
+            }
         }
     }
 }

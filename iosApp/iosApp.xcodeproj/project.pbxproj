@@ -14,7 +14,6 @@
 		AF98B5C939D33665998E427B /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
 			);
 			target = 7C143C5019097FB7F2D1709F /* iosApp */;
 		};

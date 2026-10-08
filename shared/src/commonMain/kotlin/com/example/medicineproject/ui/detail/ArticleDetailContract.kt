@@ -9,4 +9,5 @@ data class ArticleDetailState(
 
 sealed interface ArticleDetailIntent {
     data object BackClicked : ArticleDetailIntent
+    data class RelatedClicked(val id: String) : ArticleDetailIntent
 }

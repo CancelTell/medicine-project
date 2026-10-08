@@ -12,13 +12,15 @@ data class ArticleDetailUi(
     val author: String,
     val category: String,
     val description: String,
+    val related: List<ArticleCardUi>
 )
 
 fun Article.toCardUi(): ArticleCardUi = ArticleCardUi(id = id, title = title)
 
-fun Article.toDetailUi(): ArticleDetailUi = ArticleDetailUi(
+fun Article.toDetailUi(related: List<Article>): ArticleDetailUi = ArticleDetailUi(
     title = title,
     author = author,
     category = category,
     description = description,
+    related = related.map {it.toCardUi() }
 )
