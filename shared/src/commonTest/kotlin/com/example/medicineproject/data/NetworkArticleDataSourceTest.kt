@@ -12,6 +12,7 @@ import io.ktor.http.HttpHeaders
 import io.ktor.http.HttpStatusCode
 import io.ktor.http.headersOf
 import io.ktor.serialization.kotlinx.json.json
+import io.ktor.util.network.UnresolvedAddressException
 import kotlinx.coroutines.CancellationException
 import kotlinx.coroutines.test.runTest
 import kotlinx.serialization.json.Json
@@ -57,6 +58,13 @@ class NetworkArticleDataSourceTest {
     @Test
     fun browserFailureThatIsNotAnExceptionIsConnectionFailure() = runTest {
         withSource(failure = Error("Fail to fetch")) { source ->
+            assertFailsWith<LoadException.NoConnection> { source.search("medicine", 0, 20) }
+        }
+    }
+
+    @Test
+    fun unresolvedHostIsConnectionFailureRatherThanBadResponse() = runTest {
+        withSource(failure = UnresolvedAddressException()) { source ->
             assertFailsWith<LoadException.NoConnection> { source.search("medicine", 0, 20) }
         }
     }

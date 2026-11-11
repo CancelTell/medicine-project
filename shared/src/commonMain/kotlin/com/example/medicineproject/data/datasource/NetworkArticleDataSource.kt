@@ -11,6 +11,7 @@ import io.ktor.client.network.sockets.SocketTimeoutException
 import io.ktor.client.plugins.HttpRequestTimeoutException
 import io.ktor.client.plugins.ResponseException
 import io.ktor.serialization.ContentConvertException
+import io.ktor.util.network.UnresolvedAddressException
 import kotlinx.coroutines.CancellationException
 import kotlinx.serialization.SerializationException
 
@@ -46,6 +47,8 @@ class NetworkArticleDataSource(private val api: PubMedApi) : ArticleDataSource {
         throw LoadException.BadResponse()
     } catch (_: SerializationException) {
         throw LoadException.BadResponse()
+    } catch (_: UnresolvedAddressException) {
+        throw LoadException.NoConnection()
     } catch (_: IllegalArgumentException) {
         throw LoadException.BadResponse()
     } catch (_: Throwable) {
