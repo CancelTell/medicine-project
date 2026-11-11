@@ -1,0 +1,10 @@
+<resources>
+    <string name = "search_placeholder">Поиск</string>
+    <string name = "nothing_found">Ничего не найдено</string>
+    <string name = "article_not_found">Статья не найдена</string>
+    <string name = "article_author">Автор: %1$s</string>
+    <string name = "back">Назад </string>
+    <string name="related_articles">Похожие статьи</string>
+</resources>
+
+
