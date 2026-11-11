@@ -1,6 +1,5 @@
 package com.example.medicineproject.ui.screens.detail
 
-import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
@@ -8,14 +7,17 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.selection.SelectionContainer
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.Button
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.example.medicineproject.resources.Res
 import com.example.medicineproject.resources.article_author
@@ -38,7 +40,10 @@ fun ArticleDetailScreen(
     modifier: Modifier = Modifier,
 ) {
     Column(modifier.fillMaxSize().padding(16.dp)) {
-        Button(onClick = { onIntent(ArticleDetailIntent.BackClicked) }) {
+        Button(
+            onClick = { onIntent(ArticleDetailIntent.BackClicked) },
+            shape = RoundedCornerShape(12.dp),
+        ) {
             Text(stringResource(Res.string.back))
         }
         Spacer(Modifier.height(12.dp))
@@ -58,17 +63,72 @@ private fun ArticleDetailContent(state: ArticleDetailState.Success, onIntent: (A
     val article = state.article
     Column(
         modifier = Modifier.fillMaxSize().verticalScroll(rememberScrollState()),
-        verticalArrangement = Arrangement.spacedBy(16.dp),
     ) {
-        Text(article.journal, style = MaterialTheme.typography.titleMedium, color = MaterialTheme.colorScheme.primary)
-        Text(article.title, style = MaterialTheme.typography.headlineSmall)
-        if (article.author.isNotBlank()) Text(stringResource(Res.string.article_author, article.author))
-        if (article.publicationDate.isNotBlank()) Text(article.publicationDate)
-        if (article.description.isNotBlank()) {
-            Text(stringResource(Res.string.publication_record), style = MaterialTheme.typography.titleMedium)
-            SelectionContainer { Text(article.description, style = MaterialTheme.typography.bodyMedium) }
+        if (article.journal.isNotBlank()) {
+            Surface(
+                modifier = Modifier.fillMaxWidth(),
+                shape = RoundedCornerShape(12.dp),
+                color = MaterialTheme.colorScheme.primary,
+            ) {
+                Text(
+                    text = article.journal,
+                    modifier = Modifier.padding(16.dp),
+                    style = MaterialTheme.typography.titleMedium,
+                    fontWeight = FontWeight.Bold,
+                    color = MaterialTheme.colorScheme.onPrimary,
+                )
+            }
+            Spacer(Modifier.height(24.dp))
         }
-        Text(stringResource(Res.string.related_articles), style = MaterialTheme.typography.titleLarge)
+        Text(
+            text = article.title,
+            style = MaterialTheme.typography.headlineSmall,
+            fontWeight = FontWeight.Bold,
+            color = MaterialTheme.colorScheme.onSurface,
+        )
+        if (article.author.isNotBlank()) {
+            Spacer(Modifier.height(12.dp))
+            Text(
+                text = stringResource(Res.string.article_author, article.author),
+                style = MaterialTheme.typography.bodyLarge,
+                color = MaterialTheme.colorScheme.outline,
+            )
+        }
+        if (article.publicationDate.isNotBlank()) {
+            Spacer(Modifier.height(12.dp))
+            Text(
+                text = article.publicationDate,
+                style = MaterialTheme.typography.bodyLarge,
+                color = MaterialTheme.colorScheme.outline,
+            )
+        }
+        if (article.description.isNotBlank()) {
+            Spacer(Modifier.height(24.dp))
+            Text(stringResource(Res.string.publication_record), style = MaterialTheme.typography.titleMedium)
+            Spacer(Modifier.height(12.dp))
+            Surface(
+                modifier = Modifier.fillMaxWidth(),
+                shape = RoundedCornerShape(12.dp),
+                color = MaterialTheme.colorScheme.secondary,
+            ) {
+                SelectionContainer {
+                    Text(
+                        text = article.description,
+                        modifier = Modifier.padding(16.dp),
+                        style = MaterialTheme.typography.bodyLarge,
+                        color = MaterialTheme.colorScheme.onSecondary,
+                    )
+                }
+            }
+        }
+        Spacer(Modifier.height(24.dp))
+        Text(
+            text = stringResource(Res.string.related_articles),
+            style = MaterialTheme.typography.titleMedium,
+            fontWeight = FontWeight.Bold,
+            color = MaterialTheme.colorScheme.onSurface,
+        )
+        Spacer(Modifier.height(12.dp))
         when {
             state.isLoadingRelated -> CircularProgressIndicator()
             state.relatedError != null -> LoadErrorView(
@@ -82,6 +142,7 @@ private fun ArticleDetailContent(state: ArticleDetailState.Success, onIntent: (A
                     onClick = { onIntent(ArticleDetailIntent.RelatedClicked(related.id)) },
                     modifier = Modifier.fillMaxWidth(),
                 )
+                Spacer(Modifier.height(12.dp))
             }
         }
     }
