@@ -5,4 +5,13 @@
     <string name = "article_author">By %1$s</string>
     <string name = "back">Back </string>
     <string name = "related_articles">Related articles</string>
+    <string name="retry">Retry</string>
+    <string name="error_no_connection">Cannot connect. Check your internet connection.</string>
+    <string name="error_timeout">The request timed out. Please try again.</string>
+    <string name="error_not_found">Publication not found.</string>
+    <string name="error_server">PubMed is temporarily unavailable. Please try again.</string>
+    <string name="error_bad_response">Could not read the PubMed response.</string>
+    <string name="no_related_articles">No related publications found.</string>
+    <string name="publication_record">PubMed record and abstract</string>
+    <string name="error_request">PubMed rejected the request. Change your query and try again.</string>
 </resources>

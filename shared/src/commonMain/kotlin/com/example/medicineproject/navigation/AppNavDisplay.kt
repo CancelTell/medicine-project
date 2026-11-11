@@ -1,4 +1,4 @@
-package com.example.medicineproject.ui.navigation
+package com.example.medicineproject.navigation
 
 import androidx.compose.animation.AnimatedContentTransitionScope
 import androidx.compose.animation.AnimatedContentTransitionScope.SlideDirection
@@ -12,15 +12,17 @@ import androidx.compose.runtime.getValue
 import androidx.compose.ui.Modifier
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.medicineproject.detail.ArticleDetailViewModel
-import com.example.medicineproject.detail.ArticleDetailViewModelFactory
-import com.example.medicineproject.list.ArticleListViewModel
-import com.example.medicineproject.list.ArticleListViewModelFactory
+import androidx.lifecycle.viewmodel.navigation3.rememberViewModelStoreNavEntryDecorator
+import androidx.navigation3.runtime.rememberSaveableStateHolderNavEntryDecorator
+import com.example.medicineproject.ui.detail.ArticleDetailViewModel
+import com.example.medicineproject.ui.detail.ArticleDetailViewModelFactory
+import com.example.medicineproject.ui.list.ArticleListViewModel
+import com.example.medicineproject.ui.list.ArticleListViewModelFactory
 import com.example.medicineproject.ui.screens.detail.ArticleDetailScreen
 import com.example.medicineproject.ui.screens.list.ArticleListScreen
 import androidx.navigation3.runtime.entryProvider
 import androidx.navigation3.ui.NavDisplay
-import com.example.medicineproject.Screen
+import com.example.medicineproject.navigation.Screen
 
 private const val TRANSITION_MS = 300
 
@@ -36,6 +38,10 @@ fun AppNavDisplay(
         backStack = backStack,
         modifier = modifier,
         onBack = navigator::back,
+        entryDecorators = listOf(
+            rememberSaveableStateHolderNavEntryDecorator(),
+            rememberViewModelStoreNavEntryDecorator(),
+        ),
         transitionSpec = { slide(SlideDirection.Start) },
         popTransitionSpec = { slide(SlideDirection.End) },
         predictivePopTransitionSpec = { slide(SlideDirection.End) },
@@ -47,7 +53,7 @@ fun AppNavDisplay(
             }
             entry<Screen.ArticleDetail> { key ->
                 val viewModel: ArticleDetailViewModel = viewModel(
-                    key = "detail-${key.id}",
+                    key = "detail-${key.entryId}",
                     factory = detailViewModelFactory,
                     extras = ArticleDetailViewModelFactory.extrasFor(key.id),
                 )
