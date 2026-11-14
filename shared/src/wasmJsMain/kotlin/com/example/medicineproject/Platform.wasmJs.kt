@@ -1,7 +1,7 @@
 package com.example.medicineproject
 
-class WasmPlatform : Platform {
-    override val name: String = "Web with Kotlin/Wasm"
+actual class Platform actual constructor() {
+    actual val name: String = "Web with Kotlin/Wasm"
 }
 
-actual fun getPlatform(): Platform = WasmPlatform()
+actual fun getPlatform(): Platform = Platform()
