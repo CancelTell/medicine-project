@@ -88,7 +88,7 @@ HttpClient -> PubMedApi -> NetworkArticleDataSource -> ArticleRepositoryImpl
                                                 state + onIntent
 ```
 
-- `data/network`: общий клиент, таймаут, логирование и движки через `expect/actual`. На Android/JVM используется CIO, на JS/Wasm - Js, на iOS - Darwin.
+- `data/network`: общий клиент, таймаут, логирование и движки через `expect/actual`. На Android используется OkHttp, на JVM - Java, на JS/Wasm - Js, на iOS - Darwin.
 - `data/api`: запросы и разбор ответов. Крупный разбор JSON и текста выполняется на `Dispatchers.Default`.
 - `data/datasource`: сетевые исключения переводятся в `LoadException`. `CancellationException` пробрасывается дальше.
 - `data/dto` и `data/mappers`: модели сервера и преобразование в доменные `Article`/`ArticlePage`.

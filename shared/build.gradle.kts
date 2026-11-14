@@ -59,7 +59,7 @@ kotlin {
 
     sourceSets {
         androidMain.dependencies {
-            implementation(libs.ktor.client.cio)
+            implementation(libs.ktor.client.okhttp)
             implementation(libs.compose.uiToolingPreview)
             implementation(libs.compose.uiTooling)
         }
@@ -94,7 +94,7 @@ kotlin {
             implementation(libs.ktor.client.js)
         }
         jvmMain.dependencies {
-            implementation(libs.ktor.client.cio)
+            implementation(libs.ktor.client.java)
         }
         iosMain.dependencies {
             implementation(libs.ktor.client.darwin)
