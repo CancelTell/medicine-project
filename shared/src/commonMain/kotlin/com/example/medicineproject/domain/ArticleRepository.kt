@@ -1,11 +1,7 @@
 package com.example.medicineproject.domain
 
 interface ArticleRepository {
-    suspend fun getArticles(): List<Article>
-    suspend fun getArticleById(id : String): Article?
+    suspend fun getArticles(query: String, offset: Int, limit: Int): ArticlePage
+    suspend fun getArticleById(id: String): Article
+    suspend fun getRelatedArticles(id: String): List<Article>
 }
-
-suspend fun ArticleRepository.getRelatedArticles(article: Article): List<Article> =
-    getArticles().filter {
-        it.id != article.id && (it.author == article.author || it.category == article.category)
-    }

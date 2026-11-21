@@ -5,6 +5,13 @@
     <string name = "article_author">Автор: %1$s</string>
     <string name = "back">Назад </string>
     <string name="related_articles">Похожие статьи</string>
+    <string name="retry">Повторить</string>
+    <string name="error_no_connection">Не удалось подключиться. Проверьте интернет.</string>
+    <string name="error_timeout">Время ожидания истекло. Попробуйте ещё раз.</string>
+    <string name="error_not_found">Публикация не найдена.</string>
+    <string name="error_server">PubMed временно недоступен. Попробуйте ещё раз.</string>
+    <string name="error_bad_response">Не удалось прочитать ответ PubMed.</string>
+    <string name="no_related_articles">Связанные публикации не найдены.</string>
+    <string name="publication_record">Запись PubMed и аннотация</string>
+    <string name="error_request">PubMed отклонил запрос. Измените поиск и попробуйте ещё раз.</string>
 </resources>
-
-

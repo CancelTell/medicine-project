@@ -1,11 +1,11 @@
-package com.example.medicineproject.detail
+package com.example.medicineproject.ui.detail
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewmodel.CreationExtras
 import androidx.lifecycle.viewmodel.MutableCreationExtras
 import com.example.medicineproject.domain.ArticleRepository
-import com.example.medicineproject.ui.navigation.Navigator
+import com.example.medicineproject.navigation.Navigator
 import kotlin.reflect.KClass
 
 class ArticleDetailViewModelFactory(
