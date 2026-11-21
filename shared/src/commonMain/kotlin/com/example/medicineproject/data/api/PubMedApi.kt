@@ -23,6 +23,31 @@ import kotlinx.serialization.json.decodeFromJsonElement
 import kotlinx.serialization.json.jsonObject
 import kotlinx.serialization.json.jsonArray
 
+private const val SEARCH_PATH = "esearch.fcgi"
+private const val SUMMARY_PATH = "esummary.fcgi"
+private const val LINKS_PATH = "elink.fcgi"
+private const val FETCH_PATH = "efetch.fcgi"
+
+private const val PARAM_TERM = "term"
+private const val PARAM_OFFSET = "retstart"
+private const val PARAM_LIMIT = "retmax"
+private const val PARAM_ID = "id"
+private const val PARAM_COMMAND = "cmd"
+private const val PARAM_LINK_NAME = "linkname"
+private const val PARAM_RECORD_TYPE = "rettype"
+private const val PARAM_DATABASE = "db"
+private const val PARAM_RESPONSE_MODE = "retmode"
+private const val PARAM_TOOL = "tool"
+
+private const val DATABASE = "pubmed"
+private const val JSON_MODE = "json"
+private const val TEXT_MODE = "text"
+private const val RELATED_COMMAND = "neighbor"
+private const val RELATED_LINK_NAME = "pubmed_pubmed"
+private const val ABSTRACT_RECORD_TYPE = "abstract"
+private const val TOOL_NAME = "MedicineProject"
+private const val REQUEST_INTERVAL_MILLIS = 350L
+
 class PubMedApi(
     private val client: HttpClient,
     private val parsingDispatcher: CoroutineDispatcher = Dispatchers.Default,
@@ -31,10 +56,10 @@ class PubMedApi(
     private val requestMutex = Mutex()
 
     suspend fun search(query: String, offset: Int, limit: Int): ArticleSearchDto {
-        val response = request("esearch.fcgi") {
-            parameter("term", query)
-            parameter("retstart", offset)
-            parameter("retmax", limit)
+        val response = request(SEARCH_PATH) {
+            parameter(PARAM_TERM, query)
+            parameter(PARAM_OFFSET, offset)
+            parameter(PARAM_LIMIT, limit)
         }
         return withContext(parsingDispatcher) {
             val result = response.body<JsonObject>().checkError().requiredObject("esearchresult").checkError()
@@ -45,8 +70,8 @@ class PubMedApi(
     suspend fun summaries(ids: List<String>): List<ArticleSummaryDto> {
         if (ids.isEmpty()) return emptyList()
         val uniqueIds = ids.distinct()
-        val response = request("esummary.fcgi") {
-            parameter("id", uniqueIds.joinToString(","))
+        val response = request(SUMMARY_PATH) {
+            parameter(PARAM_ID, uniqueIds.joinToString(","))
         }
         return withContext(parsingDispatcher) {
             val result = response.body<JsonObject>().checkError().requiredObject("result").checkError()
@@ -58,17 +83,17 @@ class PubMedApi(
     }
 
     suspend fun relatedIds(id: String): List<String> {
-        val response = request("elink.fcgi") {
-            parameter("id", id)
-            parameter("cmd", "neighbor")
-            parameter("linkname", "pubmed_pubmed")
+        val response = request(LINKS_PATH) {
+            parameter(PARAM_ID, id)
+            parameter(PARAM_COMMAND, RELATED_COMMAND)
+            parameter(PARAM_LINK_NAME, RELATED_LINK_NAME)
         }
         return withContext(parsingDispatcher) {
             val body = response.body<JsonObject>().checkError()
             body["linksets"]?.jsonArray?.forEach { it.jsonObject.checkError() }
             val links = json.decodeFromJsonElement<ArticleLinksDto>(body)
             links.linkSets.flatMap { it.databases }
-                .filter { it.name == "pubmed_pubmed" }
+                .filter { it.name == RELATED_LINK_NAME }
                 .flatMap { it.links }
                 .filter { it != id }
                 .distinct()
@@ -76,9 +101,9 @@ class PubMedApi(
     }
 
     suspend fun publicationRecord(id: String): String {
-        val response = request("efetch.fcgi", mode = "text") {
-            parameter("id", id)
-            parameter("rettype", "abstract")
+        val response = request(FETCH_PATH, mode = TEXT_MODE) {
+            parameter(PARAM_ID, id)
+            parameter(PARAM_RECORD_TYPE, ABSTRACT_RECORD_TYPE)
         }
         return withContext(parsingDispatcher) {
             val record = response.bodyAsText().trim()
@@ -89,15 +114,15 @@ class PubMedApi(
 
     private suspend fun request(
         path: String,
-        mode: String = "json",
+        mode: String = JSON_MODE,
         parameters: HttpRequestBuilder.() -> Unit,
     ): HttpResponse = requestMutex.withLock {
         // Без API-ключа NCBI разрешает не больше трёх запросов в секунду.
-        delay(350)
+        delay(REQUEST_INTERVAL_MILLIS)
         client.get(path) {
-            parameter("db", "pubmed")
-            parameter("retmode", mode)
-            parameter("tool", "MedicineProject")
+            parameter(PARAM_DATABASE, DATABASE)
+            parameter(PARAM_RESPONSE_MODE, mode)
+            parameter(PARAM_TOOL, TOOL_NAME)
             parameters()
         }
     }
